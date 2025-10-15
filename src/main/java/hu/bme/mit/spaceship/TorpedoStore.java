@@ -57,6 +57,7 @@ public class TorpedoStore {
     return this.torpedoCount <= 0;
   }
 
+  //torpedo getter fuggveny
   public int getTorpedoCount() {
     return this.torpedoCount;
   }
